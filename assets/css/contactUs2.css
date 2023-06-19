@@ -1,0 +1,24 @@
+#caracteristicas .container{
+  text-align: center;
+  padding: 120px 120px;
+}
+
+#caracteristicas li{
+  margin: 16px 0px;
+  font-weight: bold;
+}
+
+#caracteristicas{
+  background-image: url("https://tauroparts.com/wp-content/uploads/2019/09/moto-gp-2.webp");
+  background-repeat: no-repeat;
+  background-size: 600px 600px;
+  background-position: right;
+}
+
+#caracteristicas .container{
+  text-align:left;
+}
+
+#caracteristicas ul{
+  margin-left: 10px;
+}

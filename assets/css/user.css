@@ -1,0 +1,32 @@
+.text-center {
+    color: #007bff;
+    font-size: 5rem;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+.image-button {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.image-button img {
+    display: block;
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s ease;
+}
+
+.image-button:hover {
+    transform: scale(1.2);
+}
+
+.image-button:hover img {
+    transform: scale(1.2);
+}

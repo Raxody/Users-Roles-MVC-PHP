@@ -1,0 +1,36 @@
+.color-acento{ 
+  color:#007bff; 
+}
+
+#somos-proya .container{
+  text-align: center;
+  padding: 10px 55px;
+
+}
+
+#somos-proya .container{
+      display: flex;
+      justify-content: space-evenly;
+  }
+
+#somos-proya .texto{
+      width: 50%;
+      max-width: 600px;
+      text-align:justify;
+      padding-left: 30px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+  }
+
+  #somos-proya h2{
+      margin-top: 10px;
+  }
+
+  #somos-proya .img-container{
+      background-image: url("https://st4.depositphotos.com/19447108/27674/v/600/depositphotos_276748292-stock-illustration-motocross-rider-ride-the-motocross.jpg");
+      background-size: cover;
+      background-position: center;
+      height: 400px;
+      width: 380px; 
+  }
